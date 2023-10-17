@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'ROBOT-DEV',
+  title: 'ROBOT-LOG',
   author: 'Kim Dae Wan',
   email: 'msd030428@gmail.com',
   link: 'https://nobelium.vercel.app',
